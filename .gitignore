@@ -1,0 +1,35 @@
+node_modules
+__pycache__
+*.pyc
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+.vercel
+.DS_Store
+
+docs/test-photos/
+
+# ---------------------------------------------------------------- not public
+#
+# The repository shows the work. It is not a deployment kit and not a press
+# folder, so everything below stays local.
+
+# Launch and production material
+docs/LAUNCH_THREAD.md
+docs/TEASER_AUDIO.md
+docs/VIDEO_PROMPT.md
+
+# Runbooks and internal reference. These carry the deployment steps, the
+# environment variables and the troubleshooting log.
+DEPLOY.md
+docs/DOCUMENTATION.md
+
+# The pitch document and its builder, including the economics.
+docs/Fieldwork.pdf
+docs/build_pdf.py
+
+# Working files
+skeleton.txt
+artifacts/

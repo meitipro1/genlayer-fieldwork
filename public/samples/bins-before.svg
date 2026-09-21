@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Before: bin area with bags against the wall">
+  <rect width="400" height="300" fill="#b9b3a4"/>
+  <rect y="150" width="400" height="150" fill="#8d8778"/>
+  <rect y="146" width="400" height="6" fill="#6f6a5d"/>
+  <rect x="0" y="40" width="400" height="110" fill="#a49e8f"/>
+  <g fill="#6f6a5d">
+    <rect x="24" y="66" width="352" height="3"/>
+    <rect x="24" y="104" width="352" height="3"/>
+  </g>
+  <!-- bins, one lid open -->
+  <rect x="250" y="86" width="58" height="72" rx="4" fill="#2f5d3a"/>
+  <rect x="246" y="80" width="66" height="10" rx="3" fill="#24482c"/>
+  <rect x="316" y="86" width="58" height="72" rx="4" fill="#2f5d3a"/>
+  <rect x="308" y="72" width="70" height="10" rx="3" fill="#24482c" transform="rotate(-14 343 77)"/>
+  <!-- bags against the wall -->
+  <ellipse cx="88" cy="196" rx="42" ry="30" fill="#3a3a3f"/>
+  <ellipse cx="140" cy="205" rx="36" ry="26" fill="#4a4a50"/>
+  <ellipse cx="186" cy="196" rx="30" ry="22" fill="#33333a"/>
+  <ellipse cx="60" cy="214" rx="26" ry="18" fill="#4a4a50"/>
+  <!-- loose litter -->
+  <g fill="#d8d3c4">
+    <rect x="212" y="236" width="14" height="8" rx="2" transform="rotate(18 219 240)"/>
+    <rect x="244" y="252" width="11" height="7" rx="2" transform="rotate(-24 249 255)"/>
+    <rect x="178" y="256" width="12" height="7" rx="2" transform="rotate(8 184 259)"/>
+  </g>
+  <!-- code on paper, held in frame -->
+  <g transform="rotate(-6 60 260)">
+    <rect x="22" y="244" width="96" height="42" rx="3" fill="#fdfbf4" stroke="#c9c3b2"/>
+    <text x="70" y="272" font-family="ui-monospace, monospace" font-size="21" font-weight="700" text-anchor="middle" fill="#14140f">K73QXB</text>
+  </g>
+  <text x="388" y="290" font-family="ui-monospace, monospace" font-size="10" text-anchor="end" fill="#f5f2e9">BEFORE</text>
+</svg>

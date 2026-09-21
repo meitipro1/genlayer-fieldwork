@@ -1,0 +1,4 @@
+# The contract's bytes are compared against what the chain returns, so they
+# have to survive a clone unchanged: LF in the repository, and LF on disk on
+# every platform, including a Windows checkout with core.autocrlf set.
+contracts/fieldwork.py text eol=lf
